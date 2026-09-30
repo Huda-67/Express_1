@@ -1,11 +1,11 @@
 {
-  "name": "04_express",
+  "name": "05_express",
   "version": "1.0.0",
   "description": "",
   "license": "ISC",
   "author": "",
   "type": "commonjs",
-  "main": "main.js",
+  "main": "copy.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
